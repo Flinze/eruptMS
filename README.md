@@ -58,4 +58,56 @@ Password: Password123!
 
 Screen shots of the Application:
 
+Login
+
 ![alttext](https://github.com/Flinze/flinze.github.io/blob/master/images/project_ss/erupt/erupt_login.png?raw=true)
+
+Dashboard
+
+![alttext](https://github.com/Flinze/flinze.github.io/blob/master/images/project_ss/erupt/erupt_dashboard.png?raw=true)
+
+Admin Panel
+
+![alttext](https://github.com/Flinze/flinze.github.io/blob/master/images/project_ss/erupt/erupt_admin_panel.png?raw=true)
+
+Employees
+
+![alttext](https://github.com/Flinze/flinze.github.io/blob/master/images/project_ss/erupt/erupt_employees.png?raw=true)
+
+Paygrades
+
+![alttext](https://github.com/Flinze/flinze.github.io/blob/master/images/project_ss/erupt/erupt_paygrades.png?raw=true)
+
+Projects
+
+![alttext](https://github.com/Flinze/flinze.github.io/blob/master/images/project_ss/erupt/erupt_projects.png?raw=true)
+
+Project Requests
+
+![alttext](https://github.com/Flinze/flinze.github.io/blob/master/images/project_ss/erupt/erupt_project_requests.png?raw=true)
+
+Project Weekly Reports
+
+![alttext](https://github.com/Flinze/flinze.github.io/blob/master/images/project_ss/erupt/erupt_project_weekly_reports.png?raw=true)
+
+Project Summary Reports
+
+![alttext](https://github.com/Flinze/flinze.github.io/blob/master/images/project_ss/erupt/erupt_project_summary_reports.png?raw=true)
+
+Work Packages
+
+![alttext](https://github.com/Flinze/flinze.github.io/blob/master/images/project_ss/erupt/erupt_workpackages.png?raw=true)
+
+Supervisory Page
+
+![alttext](https://github.com/Flinze/flinze.github.io/blob/master/images/project_ss/erupt/erupt_supervisory.png?raw=true)
+
+Timesheets Page
+
+![alttext](https://github.com/Flinze/flinze.github.io/blob/master/images/project_ss/erupt/erupt_timesheets.png?raw=true)
+
+Account Management
+
+![alttext](https://github.com/Flinze/flinze.github.io/blob/master/images/project_ss/erupt/erupt_user_account.png?raw=true)
+
+
