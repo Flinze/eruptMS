@@ -54,3 +54,8 @@ Stage 3: build container
 3. Sign in with 
 Username: cameron.lay@infosys.ca
 Password: Password123!
+
+
+Screen shots of the Application:
+
+![alttext](https://github.com/Flinze/flinze.github.io/blob/master/images/project_ss/erupt/erupt_login.png?raw=true)
